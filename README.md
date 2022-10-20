@@ -1,4 +1,4 @@
-# MVPW Airlines Contract - Task 1
+# MVPW Airlines - Task 1
 
 ### Internal Solidity Fall Bootcamp
 
