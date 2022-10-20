@@ -50,13 +50,19 @@ The User should be able to purchase up to 4 tickets for the desired flight. The 
 Purchasing can only be done in the MPVW Airlines ERC20 token available at address 0x71bDd3e52B3E4C154cF14f380719152fd00362E7.
 
 
-### Task Goals:
-Implement all functionalities using the Checks-Effects-Interactions pattern
-Deploy smart contract to Goerli testnet
-Verify it on Etherscan
-Use NatSpec
-Follow function & variables ordering rules
-Emit events
-Use OpenZeppelin if applicable
+#### Task Goals:
 
+Implement all functionalities using the Checks-Effects-Interactions pattern
+
+Deploy smart contract to Goerli testnet
+
+Verify it on Etherscan
+
+Use NatSpec
+
+Follow function & variables ordering rules
+
+Emit events
+
+Use OpenZeppelin if applicable
 
